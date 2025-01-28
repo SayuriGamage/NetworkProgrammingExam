@@ -1,4 +1,4 @@
-package org.example;
+package lk.ijse;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -23,4 +23,6 @@ public class Launcher extends Application {
 
         secondstage.show();
     }
+
+
 }
